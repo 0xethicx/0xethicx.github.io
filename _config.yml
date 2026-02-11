@@ -16,7 +16,7 @@ timezone:
 
 title: ETHICX # the main title
 
-tagline: OSCP # it will display as the subtitle
+tagline: OSCP | CTF # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
